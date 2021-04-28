@@ -1,0 +1,4 @@
+Analysis Observable Trends:
+1. Higher temperatures at zero latitude or the equator.
+2. There is not a high correlation between latitude, wind speed, and cloudiness.
+3. More cloud cover exists away from the equator.
